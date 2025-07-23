@@ -12,7 +12,8 @@ This app demonstrates a bug with nested React Native modals.
 
 See a screen recording of the issue:
 
-![bug](bug.mp4)
+https://github.com/user-attachments/assets/631d21f1-9736-4202-a201-5060ebd76190
+
 
 ## 🔧 Run the App
 
